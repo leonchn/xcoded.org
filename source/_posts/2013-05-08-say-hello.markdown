@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Say hello"
+date: 2013-05-08 17:52
+comments: true
+categories: 
+---
+
+### large font
+> quote something
+
+## haha
+
+    int main(){
+	count<<"hello,world"<<endl;
+    }
