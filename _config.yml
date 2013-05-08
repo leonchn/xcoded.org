@@ -1,0 +1,6 @@
+root: /
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title
+subscribe_rss: /atom.xml
+date_format: "ordinal"
